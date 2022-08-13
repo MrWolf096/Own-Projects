@@ -10,3 +10,7 @@ This  Library can : - create a library in the data base;
                     - connect the author or authors to a book;
                     - create an account of a client that wants to borrow a book from the library;
                     - borrow a book if the client has a account in the library;
+                    
+                    
+                    
+                    I will bring more updates to this becouse is'nt all finised yet. 
